@@ -1,0 +1,7 @@
+Mac: https://ss64.com/osx/
+
+Linux: https://ss64.com/bash/
+
+Windows (cmd): https://ss64.com/nt/
+
+Windows (powershell): https://ss64.com/ps/
