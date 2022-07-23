@@ -1,0 +1,65 @@
+PROYECTO de Sistemas Operativos
+
+Kali Linux - Demostración de uso de Herramientas y Práctica.
+https://www.youtube.com/watch?v=gD8HRDGLOYo
+
+CONVIERTE TU LINUX EN UN ENTORNO PROFESIONAL DE TRABAJO (2021)
+https://www.youtube.com/watch?v=mHLwfI1nHHY
+
+comando camara windows 10 
+start microsoft.windows.camera
+
+
+Pasando de Noob a Pro de Linux en 20 Minutos
+https://www.youtube.com/watch?v=VoJOOx2WLy0
+
+conectar a internet wifi kali
+
+Las 25 mejores herramientas de Kali Linux
+https://medium.com/@williamkhepri/las-25-mejores-herramientas-de-kali-linux-7b0048226ec
+
+Simulando un ATAQUE de HACKING en la VIDA REAL ft. Razer Blade 15 Advanced Model
+https://www.youtube.com/watch?v=nndLaSfqq_U
+
+Herramientas de Kali
+https://www.kali.org/tools/
+
+Evil Trust Capturar datos de la red
+https://github.com/s4vitar/evilTrust
+
+Kali Linux - Sniffing & Spoofing
+https://www.tutorialspoint.com/kali_linux/kali_linux_sniffing_and_spoofing.htm
+
+SMS spoofing using Kali Linux -English
+https://www.youtube.com/watch?v=O4dAuvVqw1o
+
+Lab 5 - Exploitation (Metasploit)
+https://cyberlab.pacific.edu/courses/comp178/labs/lab-5-exploitation
+
+Hacking ético con MetaSploit Framework (Kali-Linux)
+https://ciberseguridadasix.wordpress.com/2019/02/25/hacking-etico-con-metasploit-framework-kali-linux/
+
+MASTERMIND curso de Hacking Etico
+https://www.mastermind.ac/courses/introduccion-al-hacking-etico
+https://www.mastermind.ac/courses/hacking-radiofrecuencia
+https://www.mastermind.ac/courses/hacking-de-redes-inalambricas-wifi
+
+https://github.com/s4vitar?tab=repositories
+https://github.com/s4vitar/wifiCrack
+https://github.com/s4vitar/spoofMe
+https://github.com/s4vitar/RemoteWA
+https://github.com/s4vitar/AirDroidPwner
+
+Obtencion de credenciales con EvilTrust
+https://www.youtube.com/watch?v=l3_wLPbNIpE
+
+
+.................................
+Fases de Ejecucion
+.................................
+
+Localizar una red privada
+Ingresar a la red privada por ataque de fuerza en la contraseña
+localizar las IPs que exiten dentro de esta red
+sacar de esta red la IP o las IPs que nos interezan
+
